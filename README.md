@@ -120,8 +120,9 @@ Integración completa con la API más completa de cócteles disponible:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/cocktail-master-app.git
-   cd cocktail-master-app
+   git clone https://github.com/GianSandoval5/cocktail_app.git
+
+   cd cocktail_app
    ```
 
 2. **Instalar dependencias**
